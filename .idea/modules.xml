@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMDemo/ATMDemo.iml" filepath="$PROJECT_DIR$/ATMDemo/ATMDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlerDemo/ControlerDemo.iml" filepath="$PROJECT_DIR$/ControlerDemo/ControlerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCdemo/JDBCdemo.iml" filepath="$PROJECT_DIR$/JDBCdemo/JDBCdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFrameDemo/JFrameDemo.iml" filepath="$PROJECT_DIR$/JFrameDemo/JFrameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../第51-60讲PPT和源代码/第51-60讲PPT和源代码/code/JMenuBarDemo/JMenuBarDemo.iml" filepath="$PROJECT_DIR$/../第51-60讲PPT和源代码/第51-60讲PPT和源代码/code/JMenuBarDemo/JMenuBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KungfuGame/KungfuGame.iml" filepath="$PROJECT_DIR$/KungfuGame/KungfuGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutDemo/LayoutDemo.iml" filepath="$PROJECT_DIR$/LayoutDemo/LayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mobilemode/Mobilemode.iml" filepath="$PROJECT_DIR$/Mobilemode/Mobilemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" filepath="$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowsLoginDemo/WindowsLoginDemo.iml" filepath="$PROJECT_DIR$/WindowsLoginDemo/WindowsLoginDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test0/test0.iml" filepath="$PROJECT_DIR$/test0/test0.iml" />
+    </modules>
+  </component>
+</project>
+
