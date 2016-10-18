@@ -15,8 +15,8 @@ public class Test {
         th3.start();
         //th.run();
 
-        for(int i = 0; i< 100;i++){
-            System.out.println(Thread.currentThread().getName()+":"+i);
+        for (int i = 0; i < 100; i++) {
+            System.out.println(Thread.currentThread().getName() + ":" + i);
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {
