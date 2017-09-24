@@ -13,7 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" filepath="$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/WindowsLoginDemo/WindowsLoginDemo.iml" filepath="$PROJECT_DIR$/WindowsLoginDemo/WindowsLoginDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8Demo/java8Demo.iml" filepath="$PROJECT_DIR$/java8Demo/java8Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase-study.iml" filepath="$PROJECT_DIR$/javase-study.iml" />
     </modules>
   </component>
