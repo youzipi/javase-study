@@ -1,10 +1,9 @@
-package collections;
+package me.youzipi.collections;
 
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Executor;
-import java.util.concurrent.Executors;
 
 import static java.util.concurrent.Executors.*;
 

@@ -1,4 +1,4 @@
-package collections;
+package me.youzipi.collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
